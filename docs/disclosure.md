@@ -20,4 +20,4 @@ The format, with an example (copy the shape, not the words):
 ```
 
 ## My log
-
+- W02 · Claude (Opus) · Used for: explaining the assignment and drafting the four sections of the project proposal, after I chose the topic and design direction in discussion · Checked by: reading the full draft and confirming no placeholders remain; the simulator install is still unverified
