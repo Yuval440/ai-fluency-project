@@ -1,4 +1,4 @@
 # About me
 
-Name: Alon
+Name: Yuval Ramrazker
 Faculty: Chemical Engineering
