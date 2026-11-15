@@ -20,4 +20,4 @@ The format, with an example (copy the shape, not the words):
 ```
 
 ## My log
-
+- W02 — drafted the project proposal with an AI assistant (Claude); I chose the topic and direction, and reviewed and edited the text myself.
